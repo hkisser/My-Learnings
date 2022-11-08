@@ -1,9 +1,9 @@
 # My-Learnings :book:
 Want to keep up to date on the stuff I am learning?
 
-This branch contains a summary of some of the books I have read in data,you can have a look
+You can look at this branch for an overview of some of the books I've read in my data journey.It's my summary notes
 
-And oh,if you are interested ,let me recommend some amazing books you can read as you journey the 8th Wonder of the World,Data :wink:
+And hey, if you are interested, let me suggest some incredible books you can read while navigating the eighth wonder of the world, Data. :wink:
 
 - StoryTelling with Data - Cole Nussbaumer
 - DataStory - Nancy Duarte
